@@ -3,7 +3,7 @@
 clc;
 clear;
 
-addpath('vsop/');
+addpath('ManOpt/');
 
 load(['./data/AWA1/res101.mat']);
 load(['./data/AWA1/att_splits.mat']);
@@ -57,7 +57,7 @@ options.Q = Q;
 [acc_list, predict_labels] = VSOP(Xs, Zs, Xts, Zts, Yts, options);
 
 
-rmpath('vsop/');
+rmpath('ManOpt/');
 
 
 
