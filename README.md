@@ -1,4 +1,4 @@
-# Visual and Semantic OPtimization (VSOP)
+% Visual and Semantic OPtimization (VSOP)
 # A demo application running on the AWA1 data set 
 # Joint Visual and Semantic Optimization for Zero-shot Learning
 # Knowledge-Based Systems, 2021
