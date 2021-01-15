@@ -14,7 +14,7 @@ The data are provied by Xian Y, Lampert C H, Schiele B, et al. Zero-shot learnin
 
 Please cite our paper if you use this code helpful to your research:
 
-@article{WU2021106773,
+@article{wu2021joint, \\
 title = {Joint Visual and Semantic Optimization for zero-shot learning},
 journal = {Knowledge-Based Systems},
 pages = {106773},
