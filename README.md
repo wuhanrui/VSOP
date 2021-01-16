@@ -11,7 +11,7 @@ An illustration of the proposed VSOP method
 The codes are written based on the ManOpt provided by Z. Wen and W. Yin. A feasible method for optimization with orthogonality constraints. Mathematical Programming 2013  
 The data are provied by Xian Y, Lampert C H, Schiele B, et al. Zero-shot learning -- A comprehensive evaluation of the good, the bad and the ugly. IEEE TPAMI 2018  
 
-Please cite our paper if you use this code helpful to your research:  
+Please cite our paper if you find this code helpful to your research:  
 @article{wu2021joint,  
 title = {Joint Visual and Semantic Optimization for zero-shot learning},  
 journal = {Knowledge-Based Systems},  
