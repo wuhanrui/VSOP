@@ -1,7 +1,7 @@
 ## Visual and Semantic OPtimization (VSOP)
 
 A demo application running on the AWA1 data set  
-Joint Visual and Semantic Optimization for Zero-shot Learning, Knowledge-Based Systems, 2021 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000368?via%3Dihub)  
+Joint Visual and Semantic Optimization for Zero-shot Learning, Knowledge-Based Systems, 2021 [[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000368?via%3Dihub)]  
 Authors: Hanrui Wu, Yuguang Yan, Sentao Chen, Xiangkang Huang, Qingyao Wu, Michael K. Ng  
 Please note that the initialization of the mapping matrices P and Q has an impact on the result.  
 
